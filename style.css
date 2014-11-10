@@ -1,4 +1,8 @@
 /* Common Screen */
+a:link {text-decoration:none;color:blue;}
+a:hover {text-decoration:underline;color:blue;}
+a:active {text-decoration:none;color:blue;}
+a:visited {text-decoration:none;color:blue;}
 body {
 direction: ltr;background: #FFFFFF;text-align: center;font-size: 1.2em;
 font-family: "Trebuchet MS", Tahoma, Arial, sans-serif;
