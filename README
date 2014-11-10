@@ -1,7 +1,7 @@
 An online diary that can be accessed both from PC or mobile phone, written in PHP.
+
 Content:
-index-en.php, English version. Remove the '-en' in the filename before accessing.
-index-zh.php, Simplified Chinese version. Remove the '-zh' in the filename before accessing.
+index.php, main php file
 style.css, css style configuration file
 
 Usage:
